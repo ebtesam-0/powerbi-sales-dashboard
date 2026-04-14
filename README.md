@@ -13,7 +13,6 @@ This project presents an interactive Power BI dashboard analyzing sales performa
 - Provided insights to support business decisions
 
 ## 📊 Dashboard Preview
-
 ![Dashboard](images/dashboard_preview.png)
 
 ## 📂 Files
